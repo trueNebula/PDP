@@ -1,0 +1,3 @@
+/mnt/d/GitHub/PDP/Lab1/cmake-build-debug/CMakeFiles/Lab1.dir
+/mnt/d/GitHub/PDP/Lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/GitHub/PDP/Lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
