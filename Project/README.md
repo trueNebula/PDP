@@ -35,6 +35,7 @@ Performance tests were conducted on graphs of varying sizes to evaluate the effi
 | ---- | ---- | ---- | ---- | ---- |
 | Threads | 18 ms | 2 ms | 54 ms | 260 ms |
 | Distributed MPI | 3 ms | 1 ms | 9 ms | 76 ms |
+
 As data exponentially grows, so does the time for the threaded approach, while MPI is better at keeping the pace.
 ## Results
  
